@@ -1,0 +1,27 @@
+[
+    {
+        "id_categoria": 1,
+        "descricao": "Fotografia",
+        "image": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/icon_categoria%2FCameraIcon.png?alt=media&token=c6699711-69ca-4059-9c52-38daf821c817"
+    },
+    {
+        "id_categoria": 2,
+        "descricao": "Video Jogos",
+        "image": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/icon_categoria%2FConsolaIcon.png?alt=media&token=d47bca9d-0c97-46b6-be7c-de574723f8f6"
+    },
+    {
+        "id_categoria": 3,
+        "descricao": "Electrodomesticos",
+        "image": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/icon_categoria%2FElectrodomesticosIcon.png?alt=media&token=de9ef197-da5e-4f27-9a5c-61eddd5e47bc"
+    },
+    {
+        "id_categoria": 4,
+        "descricao": "Computadores",
+        "image": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/icon_categoria%2FLaptopIcon.png?alt=media&token=99e67b44-5a1b-4e9e-ae0c-dd222c5c9e71"
+    },
+    {
+        "id_categoria": 5,
+        "descricao": "Telemoveis",
+        "image": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/icon_categoria%2FsmartphonesIcon.png?alt=media&token=2672ce1f-f6f2-41c4-9cbd-710b4b3d02ec"
+    }
+]
