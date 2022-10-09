@@ -1,16 +1,14 @@
-[
-    {
-        "data_da_compra": "2022-10-09 23:40:32",
-        "nome_comprador": "Silesio WIlliams",
-        "nome_bancada": "Tele-Pambala",
-        "nome_produto": "Galaxy 10",
-        "preco_base": 250000,
-        "total_pago": 500000,
-        "trasnportadora": "DHL",
-        "descricao": "Samsung Galaxy S10 Android smartphone. Announced Feb 2019. Features 6.1″ display, Exynos 9820 chipset, 3400 mAh battery, 512 GB storage, 8 GB RAM",
-        "fabricante": "Samsung",
-        "classificao_produto": 5,
-        "photo_produto": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/Galaxy10.jpg?alt=media&token=03724fe0-7e75-4587-9501-505434fdd0ca",
-        "id_usuario": 1
-    }
-]
+[{
+    "data_da_compra": "2022-10-09 23:40:32",
+    "nome_comprador": "Silesio WIlliams",
+    "nome_bancada": "Tele-Pambala",
+    "nome_produto": "Galaxy 10",
+    "preco_base": 250000,
+    "total_pago": 500000,
+    "trasnportadora": "DHL",
+    "descricao": "Samsung Galaxy S10 Android smartphone. Announced Feb 2019. Features 6.1″ display, Exynos 9820 chipset, 3400 mAh battery, 512 GB storage, 8 GB RAM",
+    "fabricante": "Samsung",
+    "classificao_produto": 5,
+    "photo_produto": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/Galaxy10.jpg?alt=media&token=03724fe0-7e75-4587-9501-505434fdd0ca",
+    "id_usuario": 1
+}]
