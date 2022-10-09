@@ -1,0 +1,22 @@
+[
+    {
+        "id_usuario": 1,
+        "id_produto": 1,
+        "id_bancada": 1,
+        "nome_produto": "Pixel 5",
+        "nome_bancada": "Tele-Pambala",
+        "qte": 2,
+        "preco": 200000,
+        "total_pagar": 400000
+    },
+    {
+        "id_usuario": 1,
+        "id_produto": 2,
+        "id_bancada": 1,
+        "nome_produto": "Galaxy 10",
+        "nome_bancada": "Tele-Pambala",
+        "qte": 1,
+        "preco": 250000,
+        "total_pagar": 250000
+    }
+]
