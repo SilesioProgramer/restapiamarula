@@ -1,0 +1,19 @@
+{
+    "id_produto": 2,
+    "id_bancada": 1,
+    "nome_produto": "Galaxy 10",
+    "photo_produto": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/Galaxy10.jpg?alt=media&token=03724fe0-7e75-4587-9501-505434fdd0ca",
+    "descricao_produto": "Samsung Galaxy S10 Android smartphone. Announced Feb 2019. Features 6.1\u2033 display, Exynos 9820 chipset, 3400 mAh battery, 512 GB storage, 8 GB RAM",
+    "categoria_produto": "Telemoveis",
+    "classificao_produto": 5,
+    "fabricante": "Samsung",
+    "preco": 250000,
+    "desconto": 0,
+    "produto_deleted": 0,
+    "data_adicao": "2022-10-08 23:40:32",
+    "nome_bancada": "Tele-Pambala",
+    "email": "Tele-pambala@pambala.co.ao",
+    "e_empresa": 1,
+    "photo_bancada": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/photos_bancadas%2FSmatphone_store.jpg?alt=media&token=d6df3821-f2c0-4736-b72d-00f78675ec78",
+    "bancada_deleted": 0
+}
