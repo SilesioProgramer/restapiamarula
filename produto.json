@@ -1,5 +1,4 @@
-{
-    "produto": [
+[
         {
             "id_produto": 1,
             "id_bancada": 1,
@@ -419,4 +418,3 @@
             "bancada_deleted": 0
         }
     ]
-}
