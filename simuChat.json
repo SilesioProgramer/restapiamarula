@@ -1,0 +1,30 @@
+[
+    {
+        "chat_key": "1-Tele-Pambala",
+        "id_usuario": 1,
+        "texto": "Maconha",
+        "image": "Nenhuma",
+        "timestamp": "2022-10-08 23:40:32"
+    },
+    {
+        "chat_key": "1-Tele-Pambala",
+        "id_usuario": 2,
+        "texto": "Rebucado",
+        "image": "Nenhuma",
+        "timestamp": "2022-10-08 23:40:32"
+    },
+    {
+        "chat_key": "1-Tele-Pambala",
+        "id_usuario": 1,
+        "texto": "Baratuta",
+        "image": "Nenhuma",
+        "timestamp": "2022-10-08 23:40:32"
+    },
+    {
+        "chat_key": "1-Tele-Pambala",
+        "id_usuario": 2,
+        "texto": "Biusk",
+        "image": "Nenhuma",
+        "timestamp": "2022-10-08 23:40:32"
+    }
+]
