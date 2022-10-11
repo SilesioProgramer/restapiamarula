@@ -16,5 +16,6 @@
     "e_empresa": 1,
     "photo_bancada": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/photos_bancadas%2FSmatphone_store.jpg?alt=media&token=d6df3821-f2c0-4736-b72d-00f78675ec78",
     "bancada_deleted": 0,
-    "descricao_bancada":"Uma loja de smartphone"
+    "descricao_bancada":"Uma loja de smartphone",
+    "inf_ntregadora":"DHL e uma empresa de entrega"
 }
