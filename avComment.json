@@ -1,0 +1,42 @@
+[{
+    "id_usuario":2,
+    "classificacao":4,
+    "photo_usuario":"",
+    "texto":"Muito bom, muito bom mesmo",
+    "nome_usuario":"Marco"
+},
+{
+    "id_usuario":1,
+    "classificacao":4,
+    "photo_usuario":"",
+    "texto":"Muito bom, muito bom mesmo",
+    "nome_usuario":"Boner"
+},
+{
+    "id_usuario":3,
+    "classificacao":4,
+    "photo_usuario":"",
+    "texto":"Matsudake",
+    "nome_usuario":"Datena"
+},
+{
+    "id_usuario":5,
+    "classificacao":4,
+    "photo_usuario":"",
+    "texto":"LoL",
+    "nome_usuario":"Soryuken"
+},
+{
+    "id_usuario":6,
+    "classificacao":4,
+    "photo_usuario":"",
+    "texto":"Nem quero mais saber",
+    "nome_usuario":"Tatsumaki senpukyaku"
+},
+{
+    "id_usuario":7,
+    "classificacao":4,
+    "photo_usuario":"",
+    "texto":"Hadouken muito",
+    "nome_usuario":"Daily dose of internet"
+}]

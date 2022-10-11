@@ -1,0 +1,21 @@
+{
+    "id_produto": 1,
+    "id_bancada": 1,
+    "nome_produto": "Pixel 5",
+    "photo_produto": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/GooglePixel5.jpg?alt=media&token=acec1235-6fcb-4efb-8ee9-4bc0277b2c2d",
+    "descricao_produto": "Google Pixel 5 is powered by a 1.8GHz octa-core Qualcomm Snapdragon 765G processor. It comes with 8GB of RAM. The Google Pixel 5 runs Android 11 and is powered by a 4080mAh non-removable battery. The Google Pixel 5 supports wireless charging, as well as proprietary fast charging.",
+    "categoria_produto": "Telemoveis",
+    "classificao_produto": 4,
+    "fabricante": "Google",
+    "preco": 200000,
+    "desconto": 0,
+    "produto_deleted": 0,
+    "data_adicao": "2022-10-08 23:40:32",
+    "nome_bancada": "Tele-Pambala",
+    "email": "Tele-pambala@pambala.co.ao",
+    "e_empresa": 1,
+    "photo_bancada": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/photos_bancadas%2FSmatphone_store.jpg?alt=media&token=d6df3821-f2c0-4736-b72d-00f78675ec78",
+    "bancada_deleted": 0,
+    "descricao_bancada":"Uma loja de smartphone",
+    "inf_entregadora":"DHL e uma empresa de entrega"
+}
