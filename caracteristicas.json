@@ -1,0 +1,63 @@
+{
+    "caracteristicas": [
+        {
+            "id_caracteristica": 1,
+            "texto": "Tamanho da tela"
+        },
+        {
+            "id_caracteristica": 2,
+            "texto": "Memoria"
+        },
+        {
+            "id_caracteristica": 3,
+            "texto": "Processador"
+        }
+    ],
+    "detalhes": [
+        {
+            "id_detalhe": 1,
+            "id_caracteristica": 1,
+            "texto": "5 polegadas"
+        },
+        {
+            "id_detalhe": 2,
+            "id_caracteristica": 1,
+            "texto": "12 polegadas"
+        },
+        {
+            "id_detalhe": 3,
+            "id_caracteristica": 1,
+            "texto": "8 polegadas"
+        },
+        {
+            "id_detalhe": 4,
+            "id_caracteristica": 2,
+            "texto": "64 gb"
+        },
+        {
+            "id_detalhe": 5,
+            "id_caracteristica": 2,
+            "texto": "128 gb"
+        },
+        {
+            "id_detalhe": 6,
+            "id_caracteristica": 2,
+            "texto,": "512 gb"
+        },
+        {
+            "id_detalhe": 7,
+            "id_caracteristica": 3,
+            "texto": "1.5ghz"
+        },
+        {
+            "id_detalhe": 8,
+            "id_caracteristica": 3,
+            "texto": "3ghz"
+        },
+        {
+            "id_detalhe": 9,
+            "id_caracteristica": 3,
+            "texto": "5ghz"
+        }
+    ]
+}
