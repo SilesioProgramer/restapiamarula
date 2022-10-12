@@ -136,7 +136,7 @@
             "id_produto": 8,
             "id_bancada": 1,
             "nome_produto": "G30",
-            "photo_produto": "Nokia-G30.jpg",
+            "photo_produto": "https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/Nokia-G30.jpg?alt=media&token=c9463a4d-4c3e-4fd8-bd95-e15aefce682c",
             "descricao_produto": "Rear camera, Triple Camera: - 50 Megapixel, (wide), Dual Pixel PDAF, Laser AF, f\/1.9 aperture - 8 MP (ultra-wide) - 2 Mega pixels, (Macro).",
             "categoria_produto": "Telemoveis",
             "classificao_produto": 3.0,
