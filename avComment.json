@@ -1,35 +1,35 @@
 [{
     "id_usuario":2,
     "classificacao":4,
-    "photo_usuario":"",
+    "photo_usuario":"https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FTTdSyRFdPVNTAIVDLMFwOm7hRTF3%2Fuploads%2F1662639507336000.jpg?alt=media&token=fb128f95-a11a-4b77-af24-6f588249cb17",
     "texto":"Muito bom, muito bom mesmo",
     "nome_usuario":"Marco"
 },
 {
     "id_usuario":1,
     "classificacao":4,
-    "photo_usuario":"",
+    "photo_usuario":"https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FTTdSyRFdPVNTAIVDLMFwOm7hRTF3%2Fuploads%2F1662639507336000.jpg?alt=media&token=fb128f95-a11a-4b77-af24-6f588249cb17",
     "texto":"Muito bom, muito bom mesmo",
     "nome_usuario":"Boner"
 },
 {
     "id_usuario":3,
     "classificacao":4,
-    "photo_usuario":"",
+    "photo_usuario":"https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FTTdSyRFdPVNTAIVDLMFwOm7hRTF3%2Fuploads%2F1662639507336000.jpg?alt=media&token=fb128f95-a11a-4b77-af24-6f588249cb17",
     "texto":"Matsudake",
     "nome_usuario":"Datena"
 },
 {
     "id_usuario":5,
     "classificacao":4,
-    "photo_usuario":"",
+    "photo_usuario":"https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FTTdSyRFdPVNTAIVDLMFwOm7hRTF3%2Fuploads%2F1662639507336000.jpg?alt=media&token=fb128f95-a11a-4b77-af24-6f588249cb17",
     "texto":"LoL",
     "nome_usuario":"Soryuken"
 },
 {
     "id_usuario":6,
     "classificacao":4,
-    "photo_usuario":"",
+    "photo_usuario":"https://firebasestorage.googleapis.com/v0/b/bancada-e1425.appspot.com/o/users%2FTTdSyRFdPVNTAIVDLMFwOm7hRTF3%2Fuploads%2F1662639507336000.jpg?alt=media&token=fb128f95-a11a-4b77-af24-6f588249cb17",
     "texto":"Nem quero mais saber",
     "nome_usuario":"Tatsumaki senpukyaku"
 },
