@@ -1,0 +1,17 @@
+[
+    {
+        "nome_bancada": "Muita coisa boa",
+        "photo_bancada": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmultarte.com.br%2Flogomarca-de-loja-png-transparente-com-e-sem-fundo%2F&psig=AOvVaw3xlMYY7AXTtm_1ai0cbjLM&ust=1665664588406000&source=images&cd=vfe&ved=2ahUKEwj-94-i2tr6AhWENuwKHXlYABgQjRx6BAgAEAs",
+        "classificacao": 3.0
+    },
+    {
+        "nome_bancada": "favorita",
+        "photo_bancada": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pngtree.com%2Ffreepng%2Fshop-store-market-building-shopping-logo-design--blue-and-or_4352368.html&psig=AOvVaw3xlMYY7AXTtm_1ai0cbjLM&ust=1665664588406000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCuoPja2voCFQAAAAAdAAAAABAD",
+        "classificacao": 5.0
+    },
+    {
+        "nome_bancada": "Outra favorita",
+        "photo_bancada": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F578360777135940559%2F&psig=AOvVaw3xlMYY7AXTtm_1ai0cbjLM&ust=1665664588406000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCuoPja2voCFQAAAAAdAAAAABAI",
+        "classificacao": 4.0
+    }
+]
